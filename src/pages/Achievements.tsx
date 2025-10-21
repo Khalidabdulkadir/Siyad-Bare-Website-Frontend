@@ -80,7 +80,7 @@ const Achievements = () => {
             Guulaha Waaweyn
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Baaro hindisaha isbeddelka ah iyo guulaha lagu gaadhay inta lagu guda jiray xilligaas muhiimka ah ee taariikhda Soomaaliya
+            Baro hindisaha isbeddelka ah iyo guulaha lagu gaadhay inta lagu guda jiray xilligaas muhiimka ah ee taariikhda Soomaaliya
           </p>
         </motion.div>
 

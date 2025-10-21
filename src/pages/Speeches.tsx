@@ -62,10 +62,10 @@ const Speeches = () => {
           className="text-center mb-12"
         >
           <h1 className="font-serif text-5xl md:text-6xl font-bold mb-4">
-            Khudbaduhu Taariikhiga ah & Xigashada
+            Khudbadaha Taariikhiga ah & Xigashada
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Dhagayso oo akhri erayada xooggan ee qaabay qaran
+            Dhagayso oo akhri Khudbadahihi galkay tariikhda.
           </p>
         </motion.div>
 
